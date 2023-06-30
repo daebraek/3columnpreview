@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-using-css-flexbox-EWrthkiw1O
 - Live Site URL: https://3columnpreview.vercel.app/
 
 ## My process

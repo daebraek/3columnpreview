@@ -73,4 +73,4 @@ Would like to understand and utilise media queries more to make responsive layou
 ## Author
 
 - Frontend Mentor - [@daebraek](https://www.frontendmentor.io/profile/daebraek)
-- Twitter - [@daebraek_uptm](https://www.instagram.com/daebraek_uptm/?hl=en)
+- Instagram - [@daebraek_uptm](https://www.instagram.com/daebraek_uptm/?hl=en)
